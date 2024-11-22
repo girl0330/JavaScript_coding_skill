@@ -26,3 +26,4 @@ class Flashcoupon extends Coupon {
 
 console.log(flash.price);
 console.log(flash.getExpirationMessage());
+import Coupon4 from './get.mjs';
